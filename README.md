@@ -9,6 +9,7 @@
 | 公司（投递链接）                                                                                                | 状态       | 更新时间 | 截止时间 | 备注              |
 | --------------------------------------------------------------------------------------------------------------- | ---------- | -------- | -------- | ----------------- |
 | [美团](https://zhaopin.meituan.com/web/home)                                                                       | 秋招正式批 | 7.29     | 10.31    | 8.19 日起开始面试 |
+| [滴滴](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)                                              | 提前批     | 7.22     |          |                   |
 | [小红书](https://job.xiaohongshu.com/campus/redstar)                                                               | 提前批     | 7.17     |          |                   |
 | [旷视](https://app.mokahr.com/campus_apply/megviihr/38642#/)                                                       | 提前批     | 7.19     |          |                   |
 | [帆软](https://join.fanruan.com/)                                                                                  | 提前批     | 7.25     |          |                   |
@@ -36,6 +37,7 @@
 | [大疆](https://we.dji.com/zh-CN/campus/recruitment?from=sec_nav)                                                                 | 秋招正式批 | 7.4      | 8.14     |      |
 | [小米](https://hr.xiaomi.com/campus)                                                                                             | 提前批     | 7.22     |          |      |
 | [韶音](https://app.mokahr.com/campus_apply/aftershokzhr/36940?recommendCode=DSsCyWG6#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 提前批     | 5.25     |          |      |
+| [埃科光电](http://career.i-tek.cn/front.home.index/schoolIndex)                                                                  | 秋招正式批 | 7.17     |          |      |
 
 ## 游戏
 
