@@ -17,7 +17,7 @@
 | [淘天](https://talent.taotian.com/campus/position-list?campusType=star)                                            | 提前批     | 7.22     |          |                   |
 | [美图](https://campus.meitu.com/campus-recruitment/meitu/54138/#/)                                                 | 提前批     | 7.18     |          |                   |
 | [虹软](https://www.arcsoft.com.cn/job/JobList.html)                                                                | 提前批     | 7.16     |          |                   |
-| [拼多多](https://careers.pinduoduo.com/campus/grad/technical-session)                                              | 提前批     | 7.16     | 11 月    | 技术专场          |
+| [拼多多](https://careers.pinduoduo.com/campus/grad/technical-session)                                              | 提前批     | 7.16     | 11 月    | 技术专场   内推码：014ta6VNn4       |
 | [快手](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&positionLabel=kstar)                    | 提前批     | 7.9      |          |                   |
 | [百度](https://talent.baidu.com/jobs/campus)                                                                       | 秋招正式批 | 7.8      | 11.1     |                   |
 | [科大讯飞](https://campus.iflytek.com/)                                                                            | 秋招正式批 | 7.15     |          |                   |
@@ -35,7 +35,7 @@
 | [禾赛](https://www.hesaitech.com/cn/join)                                                                                        | 提前批     | 6.25     |          |      |
 | [OPPO](https://careers.oppo.com/university/oppo/campus/)                                                                         | 秋招正式批 | 7.10     |          |      |
 | [大疆](https://we.dji.com/zh-CN/campus/recruitment?from=sec_nav)                                                                 | 秋招正式批 | 7.4      | 8.14     |      |
-| [小米](https://hr.xiaomi.com/campus)                                                                                             | 提前批     | 7.22     |          |      |
+| [小米](https://hr.xiaomi.com/campus)                                                                                             | 硬件提前批   | 7.22     |          |      |
 | [韶音](https://app.mokahr.com/campus_apply/aftershokzhr/36940?recommendCode=DSsCyWG6#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 提前批     | 5.25     |          |      |
 | [埃科光电](http://career.i-tek.cn/front.home.index/schoolIndex)                                                                  | 秋招正式批 | 7.17     |          |      |
 
