@@ -22,6 +22,7 @@
 | [百度](https://talent.baidu.com/jobs/campus)                                                                       | 秋招正式批 | 7.8      | 11.1     |                               |
 | [科大讯飞](https://campus.iflytek.com/)                                                                            | 秋招正式批 | 7.15     |          |                               |
 | [深信服](https://hr.sangfor.com/campucompon/schoolRecruitment)                                                     | 提前批     | 5.8      |          |                               |
+| [文远知行](https://www.weride.ai/zh/careers)                                                     | 正式批     | 7.29      |          |                               |
 
 ## 制造业
 
@@ -38,6 +39,22 @@
 | [小米](https://hr.xiaomi.com/campus)                                                                                             | 硬件提前批 | 7.22     |          |      |
 | [韶音](https://app.mokahr.com/campus_apply/aftershokzhr/36940?recommendCode=DSsCyWG6#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 提前批     | 5.25     |          |      |
 | [埃科光电](http://career.i-tek.cn/front.home.index/schoolIndex)                                                                  | 秋招正式批 | 7.17     |          |      |
+| [汇川技术](https://inovance.zhiye.com/campus)                                                                  | 提前批 | 7.29     |          |      |
+| [速腾聚创](https://www.robosense.cn/about/joinus)                                                                  | 提前批 | 7.29     |          |      |
+| [乐鑫科技](https://www.espressif.com/zh-hans/join-us/campus-recruitment)                                                                  | 正式批 | 7.29     |          |      |
+| [华为](https://career.huawei.com/reccampportal/portal5/index.html)                                                                  | 提前批 | 7.29     |          |      |
+| [卓驭科技（大疆车载）](https://www.zyt.com/zh)                                                                  | 提前批 | 7.29     |          |      |
+| [恩智浦](https://www.nxp.com.cn/company/about-nxp/careers:CAREERS)                                                                  | 正式批 | 7.29     |          |      |
+| [联发科](https://mediatek.zhiye.com/)                                                                  | 提前批 | 7.29     |          |      |
+| [复旦微电子](http://campus.51job.com/fmsh/jobs.html)                                                                  | 提前批 | 7.29     |          |      |
+| [兆易创新](https://www.gigadevice.com.cn/about/career)                                                                  | 提前批 | 7.29     |          |      |
+| [金风科技](https://www.goldwind.com/cn/career/)                                                                  | 正式批 | 7.29     |          |      |
+| [视源股份](http://www.cvte.com/joins/index.html)                                                                  | 提前批 | 7.29     |          |      |
+| [博世](https://app.mokahr.com/campus-recruitment/bosch/73873#/)                                                                  | 提前批 | 7.29     |          |      |
+| [经纬恒润](https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/index.html#/)                                                                  | 提前批 | 7.29     |          |      |
+| [诺瓦星云](https://www.novastar-led.cn/index/contactus/recruit.html)                                                                  | 提前批 | 7.29     |          |      |
+| [格力电器](https://gree.zhiye.com/campus/?PageIndex=2)                                                                  | 提前批 | 7.29     |          |      |
+## 游戏
 
 ## 游戏
 
