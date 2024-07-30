@@ -8,7 +8,7 @@
 
 | 公司（投递链接）                                                                                                                                       | 状态       | 更新时间 | 截止时间 | 备注                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | -------- | -------- | ----------------------------- |
-| [腾讯](https://join.qq.com/index.html)                                                                                                                    | 秋招正式批 | 8.6      |          | 软件开发提前批已经开放投递 投递链接https://join.qq.com/post.html?query=p_16                              |
+| [腾讯](https://join.qq.com/index.html)                                                                                                                    | 秋招正式批 | 8.6      |          | 软开提前批已经开放投递 链接https://join.qq.com/post.html?query=p_16                              |
 | [美团](https://zhaopin.meituan.com/web/home)                                                                                                              | 秋招正式批 | 7.29     | 10.31    | 8.19 日起开始面试             |
 | [滴滴](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)                                                                                     | 提前批     | 7.22     |          |                               |
 | [小红书](https://job.xiaohongshu.com/campus/redstar)                                                                                                      | 提前批     | 7.17     |          |                               |
