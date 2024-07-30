@@ -45,10 +45,8 @@
 | [汇川技术](https://inovance.zhiye.com/campus)                                                                                    | 提前批     | 7.29     |          |      |
 | [速腾聚创](https://www.robosense.cn/about/joinus)                                                                                | 提前批     | 7.29     |          |      |
 | [乐鑫科技](https://www.espressif.com/zh-hans/join-us/campus-recruitment)                                                         | 秋招正式批 | 7.29     |          |      |
-| [华为](https://career.huawei.com/reccampportal/portal5/index.html)                                                               | 提前批     | 7.29     |          |      |
 | [卓驭科技<br />（大疆车载）](https://www.zyt.com/zh)                                                                             | 提前批     | 7.29     |          |      |
 | [恩智浦](https://www.nxp.com.cn/company/about-nxp/careers:CAREERS)                                                               | 秋招正式批 | 7.29     |          |      |
-| [联发科](https://mediatek.zhiye.com/)                                                                                            | 提前批     | 7.29     |          |      |
 | [复旦微电子](http://campus.51job.com/fmsh/jobs.html)                                                                             | 提前批     | 7.29     |          |      |
 | [兆易创新](https://www.gigadevice.com.cn/about/career)                                                                           | 提前批     | 7.29     |          |      |
 | [金风科技](https://www.goldwind.com/cn/career/)                                                                                  | 秋招正式批 | 7.29     |          |      |
