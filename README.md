@@ -42,6 +42,7 @@
 | [OPPO](https://careers.oppo.com/university/oppo/campus/)                                                                         | 秋招正式批 | 7.10     |          |      |
 | [大疆](https://we.dji.com/zh-CN/campus/recruitment?from=sec_nav)                                                                 | 秋招正式批 | 7.4      | 8.14     |      |
 | [小米](https://hr.xiaomi.com/campus)                                                                                             | 硬件提前批 | 7.22     |          |      |
+| [寒武纪](https://app.mokahr.com/campus-recruitment/cambricon/44201#/)                                                            | 秋招正式批 | 8.1      |          |      |
 | [韶音](https://app.mokahr.com/campus_apply/aftershokzhr/36940?recommendCode=DSsCyWG6#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 提前批     | 5.25     |          |      |
 | [埃科光电](http://career.i-tek.cn/front.home.index/schoolIndex)                                                                  | 秋招正式批 | 7.17     |          |      |
 | [汇川技术](https://inovance.zhiye.com/campus)                                                                                    | 提前批     | 7.29     |          |      |
@@ -68,6 +69,7 @@
 | [网易雷火](https://leihuo.163.com/campus/#/)                                                                                                              | 秋招正式批 | 7.9      | 9.8      |               |
 | [搜狐畅游](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/)                                                                                    | 提前批     | 7.23     | 8.20     | 8.20 起正式批 |
 | [柠檬微趣](https://app.mokahr.com/apply/microfunhr/75944?sourceToken=e13bf4392e80dd910fc612a00736c831#/)                                                  | 秋招正式批 | 7.30     |          |               |
+| [4399](http://web.4399.com/campus/)                                                                                                                       | 秋招正式批 | 8.1      |          |               |
 
 ## 银行
 
