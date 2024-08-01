@@ -6,25 +6,27 @@
 
 ## 互联网 & 软件
 
-| 公司（投递链接）                                                                                                                                       | 状态       | 更新时间 | 截止时间 | 备注                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | -------- | -------- | ----------------------------- |
-| [腾讯](https://join.qq.com/index.html)                                                                                                                    | 秋招正式批 | 8.6      |          |                               |
-| [美团](https://zhaopin.meituan.com/web/home)                                                                                                              | 秋招正式批 | 7.29     | 10.31    | 8.19 日起开始面试             |
-| [滴滴](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)                                                                                     | 提前批     | 7.22     |          |                               |
-| [小红书](https://job.xiaohongshu.com/campus/redstar)                                                                                                      | 提前批     | 7.17     |          |                               |
-| [旷视](https://app.mokahr.com/campus_apply/megviihr/38642#/)                                                                                              | 提前批     | 7.19     |          |                               |
-| [帆软](https://join.fanruan.com/)                                                                                                                         | 提前批     | 7.25     |          |                               |
-| [作业帮](https://app.mokahr.com/campus-recruitment/zuoyebang/39595?sourceToken=4c8b67982f289510ebc037901737889f#/)                                        | 提前批     | 7.22     |          |                               |
-| [淘天](https://talent.taotian.com/campus/position-list?campusType=star)                                                                                   | 提前批     | 7.22     |          |                               |
-| [美图](https://campus.meitu.com/campus-recruitment/meitu/54138/#/)                                                                                        | 提前批     | 7.18     |          |                               |
-| [虹软](https://www.arcsoft.com.cn/job/JobList.html)                                                                                                       | 提前批     | 7.16     |          |                               |
-| [拼多多](https://careers.pinduoduo.com/campus/grad/technical-session)                                                                                     | 提前批     | 7.16     | 11 月    | 技术专场   内推码：014ta6VNn4 |
-| [快手](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&positionLabel=kstar)                                                           | 提前批     | 7.9      |          |                               |
-| [百度](https://talent.baidu.com/jobs/campus)                                                                                                              | 秋招正式批 | 7.8      | 11.1     |                               |
-| [科大讯飞](https://campus.iflytek.com/)                                                                                                                   | 秋招正式批 | 7.15     |          |                               |
-| [深信服](https://hr.sangfor.com/campucompon/schoolRecruitment)                                                                                            | 提前批     | 5.8      |          |                               |
-| [文远知行](https://www.weride.ai/zh/careers)                                                                                                              | 秋招正式批 | 7.29     |          |                               |
-| [MiniMax](https://vrfi1sk8a0.jobs.feishu.cn/379481/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | 秋招正式批 | 7.30     |          |                               |
+| 公司（投递链接）                                                                                                                                       | 状态       | 更新时间 | 截止时间 | 备注                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | -------- | -------- | ------------------------------------------------------------------- |
+| [腾讯](https://join.qq.com/index.html)                                                                                                                    | 提前批     | 7.30     |          | 软开提前批已经开放[投递链接](https://join.qq.com/post.html?query=p_16) |
+| [美团](https://zhaopin.meituan.com/web/home)                                                                                                              | 秋招正式批 | 7.29     | 10.31    | 8.19 日起开始面试                                                   |
+| [滴滴](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)                                                                                     | 提前批     | 7.22     |          |                                                                     |
+| [小红书](https://job.xiaohongshu.com/campus/redstar)                                                                                                      | 提前批     | 7.17     |          |                                                                     |
+| [旷视](https://app.mokahr.com/campus_apply/megviihr/38642#/)                                                                                              | 提前批     | 7.19     |          |                                                                     |
+| [帆软](https://join.fanruan.com/)                                                                                                                         | 提前批     | 7.25     |          |                                                                     |
+| [作业帮](https://app.mokahr.com/campus-recruitment/zuoyebang/39595?sourceToken=4c8b67982f289510ebc037901737889f#/)                                        | 提前批     | 7.22     |          |                                                                     |
+| [淘天](https://talent.taotian.com/campus/position-list?campusType=star)                                                                                   | 提前批     | 7.22     |          |                                                                     |
+| [美图](https://campus.meitu.com/campus-recruitment/meitu/54138/#/)                                                                                        | 提前批     | 7.18     |          |                                                                     |
+| [虹软](https://www.arcsoft.com.cn/job/JobList.html)                                                                                                       | 提前批     | 7.16     |          |                                                                     |
+| [拼多多](https://careers.pinduoduo.com/campus/grad/technical-session)                                                                                     | 提前批     | 7.16     | 11 月    | 技术专场   内推码：014ta6VNn4                                       |
+| [快手](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&positionLabel=kstar)                                                           | 提前批     | 7.9      |          |                                                                     |
+| [百度](https://talent.baidu.com/jobs/campus)                                                                                                              | 秋招正式批 | 7.8      | 11.1     |                                                                     |
+| [科大讯飞](https://campus.iflytek.com/)                                                                                                                   | 秋招正式批 | 7.15     |          |                                                                     |
+| [深信服](https://hr.sangfor.com/campucompon/schoolRecruitment)                                                                                            | 提前批     | 5.8      |          |                                                                     |
+| [文远知行](https://www.weride.ai/zh/careers)                                                                                                              | 秋招正式批 | 7.29     |          |                                                                     |
+| [MiniMax](https://vrfi1sk8a0.jobs.feishu.cn/379481/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | 秋招正式批 | 7.30     |          |                                                                     |
+| [哔哩哔哩](https://jobs.bilibili.com/campus)                                                                                                              | 秋招正式批 | 8.1      | 11 月    |                                                                     |
+| [京东](https://campus.jd.com/home#/)                                                                                                                      | 秋招正式批 | 8.1      |          |                                                                     |
 
 ## 制造业
 
@@ -40,6 +42,7 @@
 | [OPPO](https://careers.oppo.com/university/oppo/campus/)                                                                         | 秋招正式批 | 7.10     |          |      |
 | [大疆](https://we.dji.com/zh-CN/campus/recruitment?from=sec_nav)                                                                 | 秋招正式批 | 7.4      | 8.14     |      |
 | [小米](https://hr.xiaomi.com/campus)                                                                                             | 硬件提前批 | 7.22     |          |      |
+| [寒武纪](https://app.mokahr.com/campus-recruitment/cambricon/44201#/)                                                            | 秋招正式批 | 8.1      |          |      |
 | [韶音](https://app.mokahr.com/campus_apply/aftershokzhr/36940?recommendCode=DSsCyWG6#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 提前批     | 5.25     |          |      |
 | [埃科光电](http://career.i-tek.cn/front.home.index/schoolIndex)                                                                  | 秋招正式批 | 7.17     |          |      |
 | [汇川技术](https://inovance.zhiye.com/campus)                                                                                    | 提前批     | 7.29     |          |      |
@@ -66,6 +69,7 @@
 | [网易雷火](https://leihuo.163.com/campus/#/)                                                                                                              | 秋招正式批 | 7.9      | 9.8      |               |
 | [搜狐畅游](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/)                                                                                    | 提前批     | 7.23     | 8.20     | 8.20 起正式批 |
 | [柠檬微趣](https://app.mokahr.com/apply/microfunhr/75944?sourceToken=e13bf4392e80dd910fc612a00736c831#/)                                                  | 秋招正式批 | 7.30     |          |               |
+| [4399](http://web.4399.com/campus/)                                                                                                                       | 秋招正式批 | 8.1      |          |               |
 
 ## 银行
 
