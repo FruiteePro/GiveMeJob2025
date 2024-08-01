@@ -65,7 +65,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | -------- | -------- | ------------- |
 | [米哈游](https://jobs.mihoyo.com/#/campus)                                                                                                                | 秋招正式批 | 7.26     | 10.31    |               |
 | [莉莉丝](https://lilithgames.jobs.feishu.cn/campus/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | 秋招正式批 | 7.12     | 10.31    |               |
-| [鹰角网络](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/)                                                                                   | 提前批     | 7.19     | 7.31     |               |
+| [鹰角网络](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/)                                                                                   | 秋招正式批 | 8.1      | 10.31    |               |
 | [网易雷火](https://leihuo.163.com/campus/#/)                                                                                                              | 秋招正式批 | 7.9      | 9.8      |               |
 | [搜狐畅游](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/)                                                                                    | 提前批     | 7.23     | 8.20     | 8.20 起正式批 |
 | [柠檬微趣](https://app.mokahr.com/apply/microfunhr/75944?sourceToken=e13bf4392e80dd910fc612a00736c831#/)                                                  | 秋招正式批 | 7.30     |          |               |
