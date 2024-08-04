@@ -27,6 +27,7 @@
 | [MiniMax](https://vrfi1sk8a0.jobs.feishu.cn/379481/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | 秋招正式批 | 7.30     |          |                                                                     |
 | [哔哩哔哩](https://jobs.bilibili.com/campus)                                                                                                              | 秋招正式批 | 8.1      | 11 月    |                                                                     |
 | [京东](https://campus.jd.com/home#/)                                                                                                                      | 秋招正式批 | 8.1      |          |                                                                     |
+| [联想](https://talent.lenovo.com.cn/campus)                                                                                                               | 秋招正式批 | 8.5      |          |                                                                     |
 
 ## 手机 & 硬件 & 芯片
 
@@ -88,3 +89,11 @@
 | 公司（投递链接）               | 状态       | 更新时间 | 截止时间 | 备注 |
 | ------------------------------ | ---------- | -------- | -------- | ---- |
 | [蔚来](https://campus.nio.com/#/) | 秋招正式批 | 7.25     | 10.31    |      |
+
+
+
+## 国企
+
+| 公司（投递链接）                                                | 状态       | 更新时间 | 截止时间 | 备注 |
+| --------------------------------------------------------------- | ---------- | -------- | -------- | ---- |
+| [广电运通](https://app.mokahr.com/campus_apply/grgbanking/39448#/) | 秋招正式批 | 8.4      |          |      |
