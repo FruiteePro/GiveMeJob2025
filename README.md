@@ -76,6 +76,7 @@
 | [搜狐畅游](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/)                                                                                    | 提前批     | 7.23     | 8.20     | 8.20 起正式批 |
 | [柠檬微趣](https://app.mokahr.com/apply/microfunhr/75944?sourceToken=e13bf4392e80dd910fc612a00736c831#/)                                                  | 秋招正式批 | 7.30     |          |               |
 | [4399](http://web.4399.com/campus/)                                                                                                                       | 秋招正式批 | 8.1      |          |               |
+| [友塔游戏](https://www.yotta-hr.com/zh/campus)                                                                                                            | 秋招正式批 | 8.5      |          |               |
 
 ## 银行
 
@@ -89,8 +90,6 @@
 | 公司（投递链接）               | 状态       | 更新时间 | 截止时间 | 备注 |
 | ------------------------------ | ---------- | -------- | -------- | ---- |
 | [蔚来](https://campus.nio.com/#/) | 秋招正式批 | 7.25     | 10.31    |      |
-
-
 
 ## 国企
 
