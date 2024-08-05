@@ -78,6 +78,7 @@
 | [柠檬微趣](https://app.mokahr.com/apply/microfunhr/75944?sourceToken=e13bf4392e80dd910fc612a00736c831#/)                                                  | 秋招正式批 | 7.30     |          |               |
 | [4399](http://web.4399.com/campus/)                                                                                                                       | 秋招正式批 | 8.1      |          |               |
 | [友塔游戏](https://www.yotta-hr.com/zh/campus)                                                                                                            | 秋招正式批 | 8.5      |          |               |
+| [盛趣游戏](https://mp.weixin.qq.com/s/hcWVXEfj3GEaGZZA9Is3bg)                                                                                             | 秋招正式批 | 8.5      |          |               |
 
 ## 银行
 
