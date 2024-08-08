@@ -20,7 +20,7 @@
 | [美图](https://campus.meitu.com/campus-recruitment/meitu/54138/#/)                                                                                        | 提前批     | 7.18     |          |                               |
 | [虹软](https://www.arcsoft.com.cn/job/JobList.html)                                                                                                       | 提前批     | 7.16     |          |                               |
 | [拼多多](https://careers.pinduoduo.com/campus/grad/technical-session)                                                                                     | 提前批     | 7.16     | 11 月    | 技术专场   内推码：014ta6VNn4 |
-| [快手](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&positionLabel=kstar)                                                           | 提前批     | 7.9      |          |                               |
+| [快手](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&positionLabel=kstar)                                                           | 秋招正式批 | 8.8      |          |                               |
 | [百度](https://talent.baidu.com/jobs/campus)                                                                                                              | 秋招正式批 | 7.8      | 11.1     |                               |
 | [科大讯飞](https://campus.iflytek.com/)                                                                                                                   | 秋招正式批 | 7.15     |          |                               |
 | [深信服](https://hr.sangfor.com/campucompon/schoolRecruitment)                                                                                            | 提前批     | 5.8      |          |                               |
@@ -80,6 +80,7 @@
 | [友塔游戏](https://www.yotta-hr.com/zh/campus)                                                                                                            | 秋招正式批 | 8.5      |          |               |
 | [盛趣游戏](https://mp.weixin.qq.com/s/hcWVXEfj3GEaGZZA9Is3bg)                                                                                             | 秋招正式批 | 8.5      |          |               |
 | [吉比特](https://hr.g-bits.com/web/index.html#/home-web/home-index)                                                                                       | 秋招正式批 | 8.7      |          |               |
+| [完美世界](https://jobs.games.wanmei.com/school.html)                                                                                                     | 秋招正式批 | 8.8      |          |               |
 
 ## 银行
 
