@@ -79,6 +79,7 @@
 | [4399](http://web.4399.com/campus/)                                                                                                                       | 秋招正式批 | 8.1      |          |               |
 | [友塔游戏](https://www.yotta-hr.com/zh/campus)                                                                                                            | 秋招正式批 | 8.5      |          |               |
 | [盛趣游戏](https://mp.weixin.qq.com/s/hcWVXEfj3GEaGZZA9Is3bg)                                                                                             | 秋招正式批 | 8.5      |          |               |
+| [吉比特](https://hr.g-bits.com/web/index.html#/home-web/home-index)                                                                                       | 秋招正式批 | 8.7      |          |               |
 
 ## 银行
 
