@@ -29,6 +29,7 @@
 | [哔哩哔哩](https://jobs.bilibili.com/campus)                                                                                                              | 秋招正式批 | 8.1      | 11 月    |                               |
 | [京东](https://campus.jd.com/home#/)                                                                                                                      | 秋招正式批 | 8.1      |          |                               |
 | [联想](https://talent.lenovo.com.cn/campus)                                                                                                               | 秋招正式批 | 8.5      |          |                               |
+| [高德](https://mp.weixin.qq.com/s/_L7Rm0wzDJ5hw3qdCpULxA)                                                                                              | 秋招正式批 | 8.12      |  11月   |                               |
 
 ## 手机 & 硬件 & 芯片
 
