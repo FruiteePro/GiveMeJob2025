@@ -106,8 +106,9 @@
 
 | 公司（投递链接）                                                              | 状态       | 更新时间 | 截止时间 | 备注 |
 | ----------------------------------------------------------------------------- | ---------- | -------- | -------- | ---- |
-| [交通银行金融科技](https://www.bocomfintech.com.cn/p1/zxns.html)                 | 秋招正式批 | 7.3      |          |      |
-| [招商银行网络科技](https://cmbntjob.cmbchina.com/pages/schoolRecruit/index.html) | 秋招正式批 | 8.1      | 9.22     |      |
+| [交通银行金融科技](https://www.bocomfintech.com.cn/p1/zxns.html)                 | 秋招正式批 | 7.3      |           |      |
+| [招商银行网络科技](https://cmbntjob.cmbchina.com/pages/schoolRecruit/index.html) | 秋招正式批 | 8.1      | 9.22      |      |
+| [江苏银行总行](https://mp.weixin.qq.com/s/O-thbX4xd4CTIuKaSoDqlw)               | 秋招正式批 | 8.29     | 10.15     |      |
 
 ## 车企
 
