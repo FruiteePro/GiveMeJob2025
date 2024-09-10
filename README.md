@@ -121,6 +121,8 @@
 | [招商银行](https://career.cmbchina.com/campus/home)                              | 秋招正式批 | 8.26     |          |      |
 | [华夏银行](https://wecruit.hotjob.cn/SU645b0d18bef57c0907e9fbc8/pb/school.html)  | 秋招正式批 | 8.30     | 10.7     |      |
 | [中国邮政储蓄银行](https://psbc2025.zhaopin.com/)                                | 秋招正式批 | 8.30     | 9.28     |      |
+| [招商银行信用卡中心](https://mp.weixin.qq.com/s/GeTVagsGNcS_w_pfYZxZUw)          | 秋招正式批 | 8.28    | 10.9     |      |
+
 
 ## 车企
 
